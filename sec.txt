@@ -1,1 +1,3 @@
 staging area to git repository by usin git commit operation..
+adding a extra column in this directory
+i
