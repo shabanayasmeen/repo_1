@@ -1,1 +1,5 @@
 first and second files are puched into local repository ..
+
+hi
+welcome to devops
+remote origin
